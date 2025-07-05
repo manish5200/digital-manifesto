@@ -64,9 +64,9 @@ My personal developer portfolio — a crafted manifesto of my digital work and s
 
 If you like what you see and want to collaborate, feel free to reach out:
 
-- 📧 Email: `your.email@example.com`
-- 💼 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/maniish5200/))
-- 🐙 [GitHub]([https://github.com/yourusername](https://github.com/manish5200))
+- 📧 Email: `manishksingh.mnnit@gmail.com` OR `manishksingh5200@gmail.com`
+- 💼 [LinkedIn](https://www.linkedin.com/in/maniish5200/)
+- 🐙 [GitHub](https://github.com/manish5200)
 ---
 
 <p align="center">
