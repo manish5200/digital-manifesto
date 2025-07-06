@@ -1,6 +1,91 @@
 /* Google Font */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
+/* Import Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Inter:wght@400;500&display=swap');
+/* Base styles */
+/* 🔤 Font Styling */
+body {
+    font-family: 'Inter', sans-serif;
+    line-height: 1.6;
+    background-color: #0a0a0a;
+    color: #f0f0f0;
+  }
+  
+  h1, h2, h3, .logo {
+    font-family: 'Playfair Display', serif;
+    color: #ffffff;
+  }
+  
+  /* Optional for better readability */
+  p, a, li {
+    font-family: 'Inter', sans-serif;
+  }
+  
+  /* Blog article styling idea (for future blog page) */
+  .blog-title {
+    font-family: 'Playfair Display', serif;
+    font-size: 2rem;
+    margin-bottom: 0.5em;
+  }
+  
+  .blog-body {
+    font-family: 'Inter', sans-serif;
+    font-size: 1rem;
+    line-height: 1.8;
+    color: #d4d4d4;
+  }
 
+  /*BLOG*/
+  .blog-home {
+    padding: 3rem 2rem;
+    background: #111;
+  }
+  
+  .blog-list {
+    display: grid;
+    gap: 2rem;
+    max-width: 900px;
+    margin: auto;
+  }
+  
+/* 🌐 Blog Section */
+  .visit-blog-btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 20px;
+    background-color: #00ffff;
+    color: #000;
+    font-weight: 600;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+  }
+  
+  .visit-blog-btn:hover {
+    background-color: #00e6e6;
+  }
+  
+  .blog-title {
+    font-size: 1.8rem;
+    color: #00ffff;
+    margin-bottom: 1rem;
+    font-family: 'Playfair Display', serif;
+  }
+  
+  .blog-preview, .blog-body {
+    color: #ccc;
+    font-family: 'Inter', sans-serif;
+    line-height: 1.7;
+  }
+  
+  .read-more {
+    display: inline-block;
+    margin-top: 1rem;
+    color: #bcf02d;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  
 * {
   margin: 0;
   padding: 0;
